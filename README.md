@@ -18,7 +18,7 @@ Battery | Li-Ion 3100 mAh
 Display | 5.2"; 1080 x 1920 pixels (~424 ppi)
 Cameras | 20.7 MP + 2.2 MP
 
-![Sony Xperia Z3](http://imageshack.com/a/img673/8545/3sAoMH.jpg "Sony Xperia Z3")
+![Sony Xperia Z3](http://imagizer.imageshack.us/v2/640x480q90/673/3sAoMH.jpg "Sony Xperia Z3")
 
 Source: [GSMArena.com](http://www.gsmarena.com/sony_xperia_z3-6539.php)
 
